@@ -1,4 +1,4 @@
-# Dictionary
+# Dictionary App
 My third android project used as a submission for dicoding academy. This project mainly worked on database.
 
 Here are the main features that i use in this project:
